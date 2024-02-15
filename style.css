@@ -1,0 +1,26 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #btnstart, #number
+{
+font-size: 18px;
+}
+
+body {
+    background-image: url("maternity-baby-shower-background_23-2150237231.avif");
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+box-shadow: 10px 5px 5px orangered;
+border: 5px black ridge;
+border-radius: 10px;
+margin-top: 50px;
+}
